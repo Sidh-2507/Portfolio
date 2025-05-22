@@ -381,6 +381,13 @@ article .icon {
   color: black;
   border-color: rgb(163, 163, 163);
 }
+.project-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  height: 250px;
+}
 
 /* CONTACT */
 
